@@ -1,0 +1,2 @@
+# GoSample
+Go code demonstration.
